@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "AtomtailsEmoji.json"
+  ],
+  "homeserver_url": "https://matrix.neboer.site:8448/"
+}
