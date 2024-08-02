@@ -1,7 +1,7 @@
 {
   "packs": [
+    "AtomtailsEmoji.json",
     "LittleCat.json",
-    "AtomtailsEmoji.json"
   ],
   "homeserver_url": "https://matrix.neboer.site:8448/"
 }
